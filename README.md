@@ -8,6 +8,18 @@ Modular, editable and acessible: all config files will have all their options la
 Pretty: everything will be made to look as professional and sleek, with an unified design. Pre-picked apps will be made to work together as nicely as possible, consistent colors, fonts, and generally being seamless.  
 Utilizable: will be made to have as many (complete/nice to use) features that the user can pick.  
 
+# Installation:
+Run the ./install.sh script (the script will have comments wether the user is curious on how it works)  
+
+The installation will be simplified by a install script that will:  
+1. Backup existant configs, saving them to a folder inside the repo.  
+2. Multiple options of installation, covering:  
+Color presets, design presets, choosing to install default apps, etc. Hopefully, the script will combine all the presets onto one file for the configs (maybe using echo "stuff" >> ?)  
+3. Check for any errors during installation.
+
+The repo will serve as a place to run several tools for the dotfiles.  
+It won't mess with an user's shell or their shell's configurations, nor add configs for fastfetch or other cli commands.  
+
 # Design basics:
 (wip)  
 1. Colors:  
