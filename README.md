@@ -1,7 +1,7 @@
 # hyprtux (W.I.P)
 
 <p align="center">
-  <img src="ignore/hyprtux.png" alt="Test" width="600">
+  <img src="ignore/hyprtux.png" alt="Test" width="450">
 </p>
 
 Hyprland dotfiles meant to always look screenshot-worthy, modular, and utilizable. Inspired by Ubuntu's Gnome design, its point is to be basically a lighter desktop environment editable easily by the user.  
@@ -29,6 +29,7 @@ It won't mess with an user's shell or their shell's configurations, nor add conf
 (wip)  
 1. Colors:  
 Always use a single color and its complementary partner (for small details), making them easy on the eye. Focus on monochrome shades for anything that the viewer won't pay much attention to, like the background color of the waybar.  
+Focus on using monochrome colors whenever viewer attention isn't necessary, like backgrounds.  
 
 2. Shapes:  
 Be consertive to add roundness, and have its addition be major, like for example, windows, which take a big portion of the time and visual space while using a wm.  
@@ -37,6 +38,9 @@ Focus on having info be neat together to avoid wasted space.
 3. Font:  
 Similar to the idea of the shapes, an overly "roundy" font should be avoided.  
 Monospace should be avoided unless it applies to something that revolves around a terminal, or it is explicity required (like for example, icons on the waybar).  
+
+Regular font: Onest (Light normal text, semibold for highlights)  
+Monospace: Agave Nerd Font  
 
 4. Avoid being "flashy" constantly:  
 Over-using animations, constant effects, etc. Only use them to make the user feel as if their actions mean something, for example, clicking a button should give a small animation and effect.  
