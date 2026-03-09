@@ -4,8 +4,8 @@
   <img src="ignore/Logo.png" alt="Test" width="450">
 </p>
 
-Hyprland dotfiles meant to always look screenshot-worthy, modular, and utilizable. Inspired by Ubuntu's Gnome design, its point is to be basically a lighter desktop environment editable easily by the user.  
-This is going to be my first hyprland rice, and I really felt like sharing the idea I have for this to both track progress and incase anyone wants the dotfiles, they are easily acessible by anyone.  
+Niri dotfiles meant to always look screenshot-worthy, modular, and utilizable. Inspired by Ubuntu's Gnome design, its point is to be basically a lighter desktop environment editable easily by the user.  
+This is going to be my first niri rice, and I really felt like sharing the idea I have for this to both track progress and incase anyone wants the dotfiles, they are easily acessible by anyone.  
 (it will probally take a while to be finished...)  
 
 # Objectives/Idea:  
